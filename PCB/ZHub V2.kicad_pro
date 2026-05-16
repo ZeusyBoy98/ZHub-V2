@@ -555,7 +555,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/ZHub-V2-PCB.step",
       "svg": "",
       "vrml": ""
     },
