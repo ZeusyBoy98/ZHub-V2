@@ -1,9 +1,9 @@
-# ZHub-V1
+# ZHub-V2
 A complex USB 3.2 Hub to suite my needs.
 Made for Hack Club Fallout
 
 ## Zine
-![Zine](IMG/ZHub-V1-Zine.png)
+![Zine](IMG/ZHub-V2-Zine.png)
 
 ## What?
 A basic USB hub with:
