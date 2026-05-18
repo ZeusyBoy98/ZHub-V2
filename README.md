@@ -54,7 +54,7 @@ In order to make this project for yourself, you'll need to purchase the board an
 #### 1. Preparation<br>
 Before starting, make sure you have:
 <ul>
-<li>The gerbers, pick and place files, and BOM, all available in this repository
+<li>The gerbers, pick and place file, and BOM, all available in this repository at (PCB/production)
 <li>A 3D printer (or get the printed parts from someone else)
 </ul>
 
